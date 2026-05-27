@@ -897,7 +897,7 @@ The implementation improved communication management, security posture, phishing
 
 ---
 
-#Author
+# Author
 
 Abosede Omowumi Adebayo M365 Engineer | Exchange Online Administrator | Microsoft 365 Administrator
 
