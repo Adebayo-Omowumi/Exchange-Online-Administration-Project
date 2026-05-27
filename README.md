@@ -899,7 +899,7 @@ The implementation improved communication management, security posture, phishing
 
 #Author
 
-Omowumi Adebayo M365 Engineer | Exchange Online Administrator | Microsoft 365 Administrator
+Abosede Omowumi Adebayo M365 Engineer | Exchange Online Administrator | Microsoft 365 Administrator
 
 
 
