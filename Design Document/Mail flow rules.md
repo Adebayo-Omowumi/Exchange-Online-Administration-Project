@@ -305,5 +305,3 @@ Adds [EXTERNAL] prefix to external emails.
 
 
 
-# anti-spam-configuration.md
-
