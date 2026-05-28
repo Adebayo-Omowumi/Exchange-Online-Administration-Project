@@ -171,21 +171,6 @@ Harford Property Management recently migrated from on-premises Exchange Server t
 
 ---
 
-# room-mailbox-booking-conflicts.md
-
-# Problem
-
-Room mailbox accepts overlapping meetings.
-
-# Cause
-
-AllowConflicts setting enabled.
-
-Resolution
-
-Run:
-
-```Powershell Set-CalendarProcessing "Boardroom" -AllowConflicts $false```
 
 
 ---
