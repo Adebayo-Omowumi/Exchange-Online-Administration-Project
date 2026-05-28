@@ -1,6 +1,4 @@
-# Runbooks
-
-# create-shared-mailbox.md
+# Create-shared-mailbox.md
 
 # Objective
 
