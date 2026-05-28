@@ -1,5 +1,5 @@
 
-# create-distribution-list.md
+# Create-distribution-list.md
 
 # Objective
 
