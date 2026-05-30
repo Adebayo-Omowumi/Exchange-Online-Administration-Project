@@ -31,7 +31,7 @@ Harford Property Management recently migrated from on-premises Exchange Server t
 
 ---
 
-# Technologies Used
+## Technologies Used
 | Technology | Purpose |
 |:----:|:----:|
 | Microsoft 365 | Cloud productivity platform |
@@ -44,7 +44,7 @@ Harford Property Management recently migrated from on-premises Exchange Server t
 
 ---
 
-# Environment Configuration
+## Environment Configuration
 | Configuration Item | Value |
 |:----:|:----:|
 | Tenant Type | Microsoft 365 Business |
@@ -54,7 +54,7 @@ Harford Property Management recently migrated from on-premises Exchange Server t
 | Security Controls | Mail flow rules, Anti-sperm polies |
 
 ---
-# Exchange-Online-Administration-Project/
+## Exchange-Online-Administration-Project/
 │
 ├── README.md
 │
@@ -88,7 +88,7 @@ Harford Property Management recently migrated from on-premises Exchange Server t
 
 ---
 
-# Author
+### Author
 
 Abosede Omowumi Adebayo M365 Engineer | Exchange Online Administrator | Microsoft 365 Administrator
 
